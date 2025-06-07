@@ -1,0 +1,14 @@
+# Roblox Studio build files (if you ever use Rojo to build back into .rbxlx)
+/build.rbxlx
+/build.rbxl
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Rojo-specific ignores (if any intermediate Rojo files are generated)
+/.rojo/
+
+# Common Operating System generated files
+.DS_Store
+Thumbs.db
